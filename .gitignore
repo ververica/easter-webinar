@@ -1,0 +1,12 @@
+.ammonite
+.metals
+.vscode
+lib
+.trunk
+.scala-build
+.bsp
+*.jar
+.bloop
+target
+metals.sbt
+.DS_Store
